@@ -4,3 +4,7 @@ pythondosyalari/*
 
 html/*
 !html/file1
+
+
+ilke/*
+!ilke/file3.swt
